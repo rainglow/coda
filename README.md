@@ -2,7 +2,7 @@
 
 ## Coda
 
-Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **180+ syntax and UI themes** for [Coda](https://panic.com/coda/).
+Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **250+ syntax and UI themes** for [Coda](https://panic.com/coda/).
 
 To show support for the project, you can do any (or many!) of the following:
 
